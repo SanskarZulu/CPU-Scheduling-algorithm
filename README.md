@@ -5,8 +5,6 @@ C++ Implementation of the following algorithms:
 with their respective Gantt Charts
 2. Preemptive: Round Robin
 
-Output:
-/*
 Output: 
 Problem 1: Solved by FCFS and SJF respectively.
 
@@ -163,4 +161,3 @@ Problem 2: Solved by Round Robin
 Process exited after 48.91 seconds with return value 0
 Press any key to continue . . .
 
-*/
